@@ -1,0 +1,44 @@
+body{
+  padding: 0;
+  margin:0;
+  background:#f6f6f6 ;
+   }
+.wrapper{
+  max-width:980px;
+  margin: 0 auto; 
+  }   
+.header{
+  background: #fff;
+  height: 100px;
+}
+.header-left{
+float: left; 
+width: 511px;
+height: 100px;
+display:inline block 
+}
+.User-info{
+width: 500px;
+height: 100px;
+
+
+}
+.Photo-ava{ 
+width: 100px;
+height: 100px;
+  margin: 10px;
+  padding: 0px;
+}
+.User-name{
+  width: 250px;
+  height: 100px; 
+  float: right; 
+  margin: 0px;
+
+  }
+.menu-items{
+  list-style: none;
+  font-size: 20px; 
+}
+h2{text-align: center;  margin:32px;
+}
